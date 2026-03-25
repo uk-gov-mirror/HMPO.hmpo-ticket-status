@@ -1,6 +1,6 @@
 {
   "name": "hmpo-ticket-status",
-  "version": "4.3.2",
+  "version": "5.0.0",
   "description": "Ticket status monitor to join up gitlab, jenkins, and jira statuses into a single dashboard visualisation",
   "main": "app.js",
   "repository": {
